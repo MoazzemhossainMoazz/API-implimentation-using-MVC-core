@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model ConsoumeWEBApi.ViewModels.EmployeeVM
+
+<form method="post" asp-action="Edit">
+    <div asp-validationsummery="All"></div>
+    <div>
+        <label>Name</label>
+        <input type="hidden" class="" asp-for="Id" />
+        <input type="text" asp-for="Name" />
+    </div>
+    <div>
+        <label>Position</label>
+        <input type="text" asp-for="Position" />
+    </div>
+    <div>
+
+        <input type="submit" value="Submit" />
+    </div>
+</form>

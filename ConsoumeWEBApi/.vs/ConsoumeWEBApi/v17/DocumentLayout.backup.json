@@ -202,8 +202,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T12:47:37.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:47:37.905Z"
             },
             {
               "$type": "Document",
@@ -215,8 +214,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-18T12:18:20.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:18:20.432Z"
             },
             {
               "$type": "Document",
@@ -228,8 +226,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T12:11:39.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:11:39.688Z"
             },
             {
               "$type": "Document",
@@ -241,8 +238,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T12:09:47.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:09:47.778Z"
             },
             {
               "$type": "Document",
@@ -254,8 +250,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T12:07:55.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:07:55.74Z"
             },
             {
               "$type": "Document",
@@ -267,8 +262,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-18T11:48:27.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:48:27.677Z"
             },
             {
               "$type": "Document",
@@ -276,9 +270,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\Practice\\Web API\\ConsoumeWEBApi\\ConsoumeWEBApi\\Program.cs",
               "RelativeDocumentMoniker": "ConsoumeWEBApi\\Program.cs",
-              "ToolTip": "D:\\PowerSoftIT\\Practice\\Web API\\ConsoumeWEBApi\\ConsoumeWEBApi\\Program.cs*",
-              "RelativeToolTip": "ConsoumeWEBApi\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAUAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\PowerSoftIT\\Practice\\Web API\\ConsoumeWEBApi\\ConsoumeWEBApi\\Program.cs",
+              "RelativeToolTip": "ConsoumeWEBApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T12:39:37.167Z",
               "EditorCaption": ""
@@ -293,8 +287,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T12:42:47.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T12:42:47.113Z"
             },
             {
               "$type": "Document",
@@ -306,8 +299,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T11:47:12.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:47:12.206Z"
             },
             {
               "$type": "Document",
@@ -319,8 +311,7 @@
               "RelativeToolTip": "ConsoumeWEBApi\\ViewModels\\EmployeeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T11:46:20.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:46:20.226Z"
             }
           ]
         }
